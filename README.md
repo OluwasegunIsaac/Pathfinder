@@ -9,7 +9,7 @@ Our objectives are:
 5.	To develop and deploy an interactive web app to access this application (the ‘PATHFINDER’ app).
 
 
-How to Run The App:
+How to run the App:
 1. The App run on the web app interface:
 ALTERNATIVELY TO RUN LOCALLY
 1. Download all files in the repository
