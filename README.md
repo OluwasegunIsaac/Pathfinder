@@ -18,4 +18,4 @@ ALTERNATIVELY TO RUN LOCALLY
 4. DOwnload Zipped Atlas dataset
 5. Use the "Clean Atlas" Function found on the function.py file to unzip and clean the atlas file
 6. Replace input dataset in dashboard.py with the csv output from "Clean Atlas"   Function ran above
-7. RUn dashboard.py
+7. Run dashboard.py
